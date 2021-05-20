@@ -6,8 +6,8 @@ I'm:
 - looking to collaborate 🤝 on projects which allow me to build upon my current skillset and have meaningful impacts on its users
 
 Find me here:
-* [Named Link](https://www.linkedin.com/in/scott-wilson11/ "LinkedIn")
-* [Named Link](greatscottwilson@gmail.com "Email")
+* [Linkedin](https://www.linkedin.com/in/scott-wilson11/ "LinkedIn")
+* [Email](greatscottwilson@gmail.com "Email")
 
 <!---
 ScottyPippin/ScottyPippin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
