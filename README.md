@@ -7,7 +7,7 @@ I'm:
 
 Find me here:
 * [Linkedin](https://www.linkedin.com/in/scott-wilson11/ "LinkedIn")
-* [Email](greatscottwilson@gmail.com "Email")
+* 📭 greatscottwilson@gmail.com
 
 <!---
 ScottyPippin/ScottyPippin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
