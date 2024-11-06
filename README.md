@@ -1,13 +1,12 @@
-# Hey there, I'm Scott 😄
-Welcome to my Github page!
+# Hey, I'm Scott 😄
 
 I'm:
-- interested in various domains of computer science such as AI and computational learning! 🧠
+- interested in combining XR technologies with AI 
 - looking to collaborate 🤝 on projects which allow me to build upon my current skillset and have a meaningful impact users
 
 Find me here:
 * [Linkedin](https://www.linkedin.com/in/scott-wilson11/ "LinkedIn")
-* 📭 greatscottwilson@gmail.com
+* 📭 scottwilson4411@gmail.com
 
 <!---
 ScottyPippin/ScottyPippin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
